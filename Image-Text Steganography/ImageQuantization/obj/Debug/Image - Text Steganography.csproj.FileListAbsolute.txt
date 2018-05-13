@@ -1,0 +1,48 @@
+D:\Faculity\3'th Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\bin\Debug\ImageQuantization.exe
+D:\Faculity\3'th Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\bin\Debug\ImageQuantization.pdb
+D:\Faculity\3'th Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\Image - Text Steganography.csprojResolveAssemblyReference.cache
+D:\Faculity\3'th Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.ImageViewer.resources
+D:\Faculity\3'th Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+D:\Faculity\3'th Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+D:\Faculity\3'th Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\Image - Text Steganography.csproj.GenerateResource.Cache
+D:\Faculity\3'th Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.exe
+D:\Faculity\3'th Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.pdb
+D:\Faculity\3'th Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.TextHiding.resources
+D:\Faculity\3'th Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.Text_Encryption.resources
+D:\Faculity\3'th Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.TextDecryption.resources
+D:\Faculity\Third Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.exe
+D:\Faculity\Third Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.pdb
+D:\Faculity\Third Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\bin\Debug\ImageQuantization.exe
+D:\Faculity\Third Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\bin\Debug\ImageQuantization.pdb
+D:\Faculity\Third Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\Image - Text Steganography.csprojResolveAssemblyReference.cache
+D:\Faculity\Third Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.ImageViewer.resources
+D:\Faculity\Third Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+D:\Faculity\Third Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+D:\Faculity\Third Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.Text_Encryption.resources
+D:\Faculity\Third Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.TextHiding.resources
+D:\Faculity\Third Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.TextDecryption.resources
+D:\Faculity\Third Year\Semester 1\Assembly Language\Image-Text Steganography\ImageQuantization\obj\Debug\Image - Text Steganography.csproj.GenerateResource.Cache
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.exe
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.pdb
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project\Image-Text Steganography\ImageQuantization\bin\Debug\ImageQuantization.exe
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project\Image-Text Steganography\ImageQuantization\bin\Debug\ImageQuantization.pdb
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project\Image-Text Steganography\ImageQuantization\obj\Debug\Image - Text Steganography.csprojResolveAssemblyReference.cache
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.ImageViewer.resources
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.Text_Encryption.resources
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.TextHiding.resources
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.TextDecryption.resources
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project\Image-Text Steganography\ImageQuantization\obj\Debug\Image - Text Steganography.csproj.GenerateResource.Cache
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project With Bouns\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.exe
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project With Bouns\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.pdb
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project With Bouns\Image-Text Steganography\ImageQuantization\bin\Debug\ImageQuantization.exe
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project With Bouns\Image-Text Steganography\ImageQuantization\bin\Debug\ImageQuantization.pdb
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project With Bouns\Image-Text Steganography\ImageQuantization\obj\Debug\Image - Text Steganography.csprojResolveAssemblyReference.cache
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project With Bouns\Image-Text Steganography\ImageQuantization\obj\Debug\Image_Viewer_Main_Idea.Form1.resources
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project With Bouns\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project With Bouns\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project With Bouns\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.Text_Encryption.resources
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project With Bouns\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.TextHiding.resources
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project With Bouns\Image-Text Steganography\ImageQuantization\obj\Debug\ImageQuantization.TextDecryption.resources
+D:\Faculity\Third Year\Semester 1\Assembly Language\Project With Bouns\Image-Text Steganography\ImageQuantization\obj\Debug\Image - Text Steganography.csproj.GenerateResource.Cache
